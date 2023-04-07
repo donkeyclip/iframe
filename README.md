@@ -2,7 +2,7 @@
 
 To embed a Donkeyclip video player on your website using an iframe, simply include the following HTML code and replace the `src` attribute with the URL of the Donkeyclip player hosted on your server or CDN:
 
-\```html
+```html
 <iframe
   src="<your-donkeyclip-url>?controls"
   width="640"
@@ -11,7 +11,7 @@ To embed a Donkeyclip video player on your website using an iframe, simply inclu
   allow="autoplay; fullscreen"
   allowfullscreen
 ></iframe>
-\```
+```
 
 # Available query params
 
